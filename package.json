@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "web-cursos",
+  "version": "1.0.0",
+  "description": "Pagina web para la gestion de cursos",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "run": "npm run"
+  },
+  "author": "",
+  "license": "ISC"
+}
